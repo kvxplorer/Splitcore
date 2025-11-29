@@ -1,0 +1,10 @@
+{
+  "name": "splitcore",
+  "version": "1.0.0",
+  "description": "Universal file converter CLI that runs the Splitcore Python engine",
+  "bin": {
+    "splc": "./bin/splc"
+  },
+  "keywords": ["converter", "cli", "splitcore", "splc"],
+  "license": "MIT"
+}
